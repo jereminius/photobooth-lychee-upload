@@ -10,7 +10,7 @@ Based on
 
 ## How to use?
 
-#### Python 3.8 or higher is required to run the script!
+#### Python 3.8 or higher is required to run the script! When installing the pychee pip package, make sure to install as root.
 
 Copy the lychee_upload.py file to your private folder:
 ```bash
