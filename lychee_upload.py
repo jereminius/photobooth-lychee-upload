@@ -8,7 +8,7 @@ import sys
 # Check if the correct number of command line arguments are provided
 if len(sys.argv) != 3:
     print("Error: Please provide an album ID and the path of your photo.")
-    print("Usage: python lychee.py album_ID path")
+    print("Usage: python lychee_upload.py album_ID photo_path")
     sys.exit(1)
 
 # Get command line arguments
